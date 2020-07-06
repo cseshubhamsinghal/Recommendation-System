@@ -14,5 +14,7 @@ and provide recommendations based on the comparison between the ratings of the i
 ___________________________________________________________________
 
 -Dataset Trained over Boltzmann Machine
+
 -Dataset trained over Autoencoder
+
 -Dataset Trained over SVD (Singular Value Decomposition) algorithm
