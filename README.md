@@ -11,7 +11,8 @@ and provide recommendations based on the comparison between the ratings of the i
 - Preparing data for learning algorithms
 - Training and testing of classifiers
 
+___________________________________________________________________
 
-- Dataset Trained over Boltzmann Machine
-- Dataset trained over Autoencoder
-- Dataset Trained over SVD (Singular Value Decomposition) algorithm
+-Dataset Trained over Boltzmann Machine
+-Dataset trained over Autoencoder
+-Dataset Trained over SVD (Singular Value Decomposition) algorithm
